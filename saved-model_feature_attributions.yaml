@@ -1,0 +1,36 @@
+type: object
+properties:
+  Tenure:
+    type: number
+  PreferredLoginDevice:
+    type: number
+  CityTier:
+    type: number
+  WarehouseToHome:
+    type: number
+  PreferredPaymentMode:
+    type: number
+  Gender:
+    type: number
+  HourSpendOnApp:
+    type: number
+  NumberOfDeviceRegistered:
+    type: number
+  PreferedOrderCat:
+    type: number
+  SatisfactionScore:
+    type: number
+  NumberOfAddress:
+    type: number
+  Complain:
+    type: number
+  OrderAmountHikeFromlastYear:
+    type: number
+  CouponUsed:
+    type: number
+  OrderCount:
+    type: number
+  DaySinceLastOrder:
+    type: number
+  CashbackAmount:
+    type: number

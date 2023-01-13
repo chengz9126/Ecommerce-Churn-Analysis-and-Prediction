@@ -1,0 +1,8 @@
+{
+  "resources": [
+    {
+      "resourceType": "BatchPredictionJob",
+      "resourceUri": "https://us-central1-aiplatform.googleapis.com/v1/projects/504444247109/locations/us-central1/batchPredictionJobs/8285067642847363072"
+    }
+  ]
+}
